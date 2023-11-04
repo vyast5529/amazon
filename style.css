@@ -23,7 +23,7 @@
 }
 .navlogo
 {
-    background-image: url("/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -303,26 +303,26 @@ span
 
     .img-box5
 {
-    background-image: url("/box5_image.jpg");
+    background-image: url("box5_image.jpg");
     background-size: cover;
     height: 300px;
 
 }
 .img-box6
 {
-    background-image: url("/box6_image.jpg");
+    background-image: url("box6_image.jpg");
     background-size: cover;
     height:300px
 }
  .img-box7
     {
-        background-image: url("/box7_image.jpg");
+        background-image: url("box7_image.jpg");
         background-size: cover;
         height: 300px; 
 }
 .img-box8
 {
-    background-image: url("/box8_image.jpg");
+    background-image: url("box8_image.jpg");
     background-size: cover;
     height: 300px;
 }
